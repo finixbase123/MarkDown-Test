@@ -1,8 +1,8 @@
-'''PHP
+```PHP
 <?php
 echo "MarkDown Test";
 ?>
-'''
+```
 
 #도
 ##레
