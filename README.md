@@ -16,7 +16,8 @@ echo "MarkDown Test";
 
 ## 제목
 - 내용
-[링크](github.com/finixbase123)
+
+[링크](https://github.com/finixbase123/MarkDown-Test/blob/main/README.md)
 
 ---
 
